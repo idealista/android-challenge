@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/lime30</color>
+    <color name="colorPrimaryDark">@color/lime40</color>
+    <color name="colorAccent">@color/magenta</color>
+
+    <color name="lime30">#E1F56E</color>
+    <color name="lime40">#B1D004</color>
+    <color name="magenta">#B62682</color>
+    <color name="grey10">#F4F5F2</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+</resources>

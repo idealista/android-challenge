@@ -1,0 +1,11 @@
+<resources>
+    <string name="typology_flat">Piso</string>
+    <string name="typology_penthouse">Ático</string>
+    <string name="typology_duplex">Dúplex</string>
+    <string name="typology_studio">Estudio</string>
+    <string name="typology_countryHouse">Casa rústica</string>
+    <string name="typology_chalet">Chalet</string>
+    <string name="operation_rent">Alquiler</string>
+    <string name="operation_sale">Venta</string>
+    <string name="typology_at_operation">%1$s en %2$s</string>
+</resources>
