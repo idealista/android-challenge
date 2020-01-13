@@ -17,7 +17,7 @@ This is a multi-module project which contains three different modules: ``app``, 
 
 ## Tasks 
 
-Your task is to **clone** or **fork** this repository into one of yours and take into consideration next steps
+Your task is to **clone** this repository and take into consideration next steps
 
 ###### Before start
 Damn it! It seems the project has some kind of errors...could you help us to fix them and get project running great again before start?
@@ -30,7 +30,7 @@ Damn it! It seems the project has some kind of errors...could you help us to fix
 ###### Some optional tasks to do (bonus):
 
 1. Some tests could be great idea
-2. See ad images in some kind of ad gallery
+2. Feel free to develop any new features or improvements
 
 ###### Considerations
 1. Deliver production ready code.
@@ -38,5 +38,5 @@ Damn it! It seems the project has some kind of errors...could you help us to fix
 
 ###### Once you've finished
 1. Generate the application apk and place it into a distribution folder
-2. Notify by email to rrhh@idealista.com which branch you want our Android team analyze
+2. Notify by email to rrhh@idealista.com which branch of your repo you want our Android team analyze or send us the project folder (including the .git)
 3. Have a beer after the work done
