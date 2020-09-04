@@ -6,7 +6,7 @@ import retrofit2.http.*
 
 interface ApiService {
     
-    @GET("/bins/93tqm")
+    @GET("/v3/754f10b0-4fb7-4a6c-aa21-e7df9b6d2b92")
     fun list(): Call<ListEntity>
 
 }

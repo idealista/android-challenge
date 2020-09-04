@@ -13,7 +13,7 @@ object CoreAssembler {
 
     private val apiClient: ApiClient by lazy {
         ApiClient.Builder()
-            .withEndPoint("https://api.myjson.com/")
+            .withEndPoint("https://run.mocky.io/")
             .create()
     }
 
