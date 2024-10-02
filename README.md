@@ -1,42 +1,42 @@
 # idealista Android challenge
 idealista Android crew needs you! We need a fellow to face our everyday challenges: new features, problem fixes, UI design, performance, security, backwards compatibility, testing...
 
-This repository contains a project ready to work with, but we need your help to build the next amazing features that will bring it to the next level, are you ready to go?
+We need your help to build the next amazing features that will bring our user experiences to the next level, are you ready to go?
 
 We love clean code and beautiful layouts, structured implementation and testable components. Does it sound good to you? This is your challenge!
+&nbsp;
 
-## Getting started
+### 🚀 Getting started
+- Read the minimum requirements.
+- Start a new project from scratch.
+- Think, design, code and have fun!
+&nbsp;
 
-This repository contains an Android app that retrieves a list of ads.
+### 📱 Task
+Build an app that allows users to browse through a list of ads and view ad details on a separate screen.
+&nbsp;
 
-<p align="center">
-  <img src="./art/list.png">
-</p>
+### 🌐 API endpoints
+- List: [https://idealista.github.io/android-challenge/list.json](https://idealista.github.io/android-challenge/list.json)  
+- Detail: [https://idealista.github.io/android-challenge/detail.json](https://idealista.github.io/android-challenge/detail.json) *Please note: the response is always the same*.
+&nbsp;
 
-This is a multi-module project which contains three different modules: ``app``, ``core`` and ``list``. Application entry point is ``ListActivity`` located at ``list`` module
+### ✅ Minimum Requirements
+- The app should include at least **two screens**:
+  - A **listing screen** displaying a collection of ads.
+  - A **detail screen** for viewing ad information.
+- The code must be written in **Kotlin** and use **xml views**.
+- Implement feature to allow users to **favorite ads**.
+  - If an ad is favorited, display the **date** it was favorited.
+&nbsp;
 
-## Tasks 
+### 🎁 Some optional tasks to do (bonus):
+- Tests of different types could be great idea.
+- Some **Jetpack Compose** code alongside xml.
+- Implement **persistent storage**.
+- Feel free to go beyond the requirements and **improve the app** in any way you think is best — we love creativity!
+&nbsp;
 
-Your task is to **clone** this repository and take into consideration next steps
-
-###### Before start
-Damn it! It seems the project has some kind of errors...could you help us to fix them and get project running great again before start?
-
-###### New features to add
-
-1. Go to an ad detail from ads list.
-2. Favourite ads
-
-###### Some optional tasks to do (bonus):
-
-1. Some tests could be great idea
-2. Feel free to develop any new features or improvements
-
-###### Considerations
-1. Deliver production ready code.
-2. You can add any UX / UI improvements you consider
-
-###### Once you've finished
-1. Generate the application apk and place it into a distribution folder
-2. Notify by email to rrhh@idealista.com which branch of your repo you want our Android team analyze or send us the project folder (including the .git)
-3. Have a beer after the work done
+### 🥳 Once you've finished
+- Email us at [android@idealista.com](mailto:android@idealista.com) with your repository link you'd like our Android team to review, or send the project folder (including the `.git` directory).
+- Celebrate after a well done job! 🥳
