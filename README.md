@@ -28,6 +28,7 @@ Build an app that allows users to browse through a list of ads and view ad detai
 - The code must be written in **Kotlin** and use **xml views**.
 - Implement feature to allow users to **favorite ads**.
   - If an ad is favorited, display the **date** it was favorited.
+- **Use AI tools** (e.g. GitHub Copilot, ChatGPT, Claude, Cursor, etc.) during the development of the challenge. We want to see how you leverage these tools in your workflow.
 &nbsp;
 
 ### 🎁 Some optional tasks to do (bonus):
@@ -35,6 +36,7 @@ Build an app that allows users to browse through a list of ads and view ad detai
 - Some **Jetpack Compose** code alongside xml.
 - Implement **persistent storage**.
 - Feel free to go beyond the requirements and **improve the app** in any way you think is best — we love creativity!
+- If you used any **AI context files** to help the AI tool understand your project (e.g. `CLAUDE.md`, `.cursorrules`, `.github/copilot-instructions.md`, system prompts, or similar harness/context engineering files), include them in your submission.
 &nbsp;
 
 ### 🥳 Once you've finished
